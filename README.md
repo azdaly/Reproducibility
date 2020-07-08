@@ -1,5 +1,5 @@
 # Reproducibility
-A github repo about reproducibility
+A github repo with reproducibility tools
 
 ## Resources
 
