@@ -1,5 +1,5 @@
 # Reproducibility
-A github repo with reproducibility tools
+A github repo highlighing reproducibility tools
 
 ## Resources
 
@@ -7,3 +7,9 @@ A github repo with reproducibility tools
 - [Pytest](https://github.com/pytest-dev/pytest/) - simple python unit testing.
 - [Watermark](https://github.com/rasbt/watermark) - tool to show the environment and hardware specs.
 - [Tox](https://tox.readthedocs.io/en/latest/) - tool to automate and standardize testing.
+
+### Virtual environment managers and package installers
+
+- [Pipenv](https://github.com/pypa/pipenv)
+- [Anaconda](https://anaconda.org/about)
+- [Miniconda](https://docs.conda.io/en/latest/miniconda.html) - lightweight Anaconda.
