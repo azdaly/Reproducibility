@@ -13,3 +13,5 @@ A github repo highlighing reproducibility tools
 - [Pipenv](https://github.com/pypa/pipenv)
 - [Anaconda](https://anaconda.org/about)
 - [Miniconda](https://docs.conda.io/en/latest/miniconda.html) - lightweight Anaconda.
+- [pip-tools](https://github.com/jazzband/pip-tools) - [this guy](https://twitter.com/webology/status/1283429328211120128?s=20) likes it over poetry + pipenv
+- [Poetry](https://python-poetry.org/)
